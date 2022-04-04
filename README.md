@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Pedro Henrique👋
 
-<!--
-**PedroAzara/pedroazara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroazara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroazara&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on front-end
+- 🌱 I’m currently learning VueJS and SpringBoot
+- ✉ My email is pedrohenriquealmeida2004@gmail.com
+- 📱 My discord is Cake#9796
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
